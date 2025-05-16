@@ -1,1 +1,0 @@
-using Django and DRF(Django REST Framework)
